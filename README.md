@@ -69,3 +69,8 @@ Una vez seguidos todos estos apsos, habremos montado la base de datos sin ningú
 
 ## Capturas de pantalla de la creación de tablas
 ![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/crear_tablas.png)
+*Fig. 1: Creación de las tablas*
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/crear_usuarios.png)
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/crear_trigger1.png)
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/carga_datos.png)
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/crear_trigger2.png)
