@@ -65,7 +65,7 @@ Existen 2 triggers, que controlan los usuarios que insertan datos en dos tablas.
    > psql hospital < hospital_triggers2.sql
    
 ## Conclusión
-Una vez seguidos todos estos apsos, habremos montado la base de datos sin ningún tipo de problema.
+Una vez seguidos todos estos pasos, habremos montado la base de datos sin ningún tipo de problema.
 
 ## Capturas de pantalla de la creación de tablas
 
