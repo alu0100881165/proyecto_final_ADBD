@@ -68,4 +68,4 @@ Existen 2 triggers, que controlan los usuarios que insertan datos en dos tablas.
 Una vez seguidos todos estos apsos, habremos montado la base de datos sin ningún tipo de problema.
 
 ## Capturas de pantalla de la creación de tablas
-![alt text]![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/crear_tablas.png)
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/crear_tablas.png)
