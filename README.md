@@ -49,7 +49,10 @@ Y lo importamos utilizando el siguiente comando:
 Por defecto, el fichero de configuración de PostgreSQL hace que a la hora de conectarse a la base de datos, se hace login con un usuario del sistema. Por tanto, si no existe el usuario creado en nuestro sistema Ubunto, nos dará un error y no podremos conectarnos. En este momento, ya podemos salir de la cuenta de superusuario de PostgreSQL, ya que no nos hará falta más, y para solucionar este problema, deberemos ir editar el siguiente archivo:
    > sudo vi /etc/postgresql/12/main/pg_hba.conf*
 
-Y debemos modificar en todas las líneas la última columna, de tal forma que cambiemos aquellas que ponen "peer" por "md5".
+Bebemos modificar en todas las líneas la última columna, de tal forma que cambiemos aquellas que ponen "peer" por "md5".
+
+Y por último, reiniciamos el servidor de PostgreSQL:
+   > sudo service postgresql restart
 
 
 ## Creación de los triggers o disparadores
