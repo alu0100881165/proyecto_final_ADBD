@@ -70,7 +70,7 @@ Existen 2 triggers, que controlan los usuarios que insertan datos en dos tablas.
 ## Conclusión
 Una vez seguidos todos estos pasos, habremos montado la base de datos sin ningún tipo de problema.
 
-## Capturas de pantalla de la creación de tablas
+## Capturas de pantalla de la creación de la base de datos
 
 *Fig. 1: Creación de las tablas*
 
@@ -91,3 +91,33 @@ Una vez seguidos todos estos pasos, habremos montado la base de datos sin ningú
 *Fig. 5: Adición de los últimos triggers*
 
 ![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/crear_trigger2.png)
+
+## Capturas de pantalla pruebas de las consultas de prueba
+
+*Fig. 1: Selección de la tabla cita*
+
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/select_cita.png)
+
+*Fig. 2: Inserción en la tabla paciente*
+
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/insert_paciente.png)
+
+*Fig. 3: Resultado de la inserción, se asigna automáticamente el doctor*
+
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/insert_paciente_resultado.png)
+
+*Fig. 4: Fallo al insertar en la tabla cita con el usuario "d66666666".*
+
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/insert_fallo.png)
+
+*Fig. 5: Inserción en la tabla cita con el usuario "r11111111"*
+
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/insert_bien_1.png)
+
+*Fig. 6: Inserción en la tabla cita con el usuario "r11111111"*
+
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/insert_bien_2.png)
+
+*Fig. 7: Insert en la tabla paciente_habitacion*
+
+![alt text](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Capturas/insert_paciente_habitacion.png)
