@@ -2,6 +2,17 @@
 
 En este readme se recogen los pasos a seguir para poder montar la base de datos de un hospital, hacer una carga de datos y realizar unas consultas de prueba.
 
+## Resumen de la actividad
+
+El proyecto consiste en desarrollar una base de datos desde cero, pasando por las distintasa fases de desarrollo. Escribir un supuesto práctico, realizar un análisis de requisitos, crear el modelo conceptual, lógico y objeto relacional, e implementar la base de datos en PostgreSQL.
+
+## Documentos
+[Modelo conceptual](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Modelo_conceptual/ERE.pdf)
+[Modelo lógico Relaciopnal](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Modelo_logico/GrafoRelacional.pdf)
+[Modelo Lógico Objeto-Relacional](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Modelo_objeto_relacional/ASIClases.pdf)
+[Generación de Código](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Scripts_creacion/ScriptCreation.pdf)
+[Carga de datos](https://github.com/alu0100881165/proyecto_final_ADBD/blob/master/Scripts_creacion/CSI8.pdf)
+
 ## Instalación de PostgreSQL
 Para instalar el Gestor de Bases de Datos PostgreSQL en una máquina Ubuntu, debemos seguir los siguientes pasos:
 
